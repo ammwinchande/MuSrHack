@@ -1,5 +1,5 @@
 # MuSrHack Font
-Nerd font patched Hack font with ligatures for awesome Editor Experience
+Hack font with ligatures for awesome Editor Experience
 
 Manually patched [Hack](https://github.com/source-foundry/Hack) font for all
 [NerdFont](https://nerdfonts.com/) goodness.
